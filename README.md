@@ -5,9 +5,9 @@ This is a simple script to gather latency metrics produced by DSE [Query Metrics
 ## Instructions
 
 1. clone this repo
-'''
+```
  git clone https://github.com/gregory-smith/latency-beans.git
-'''
+```
 
 2. Download [jmxterm](http://wiki.cyclopsgroup.org/jmxterm/)
 
